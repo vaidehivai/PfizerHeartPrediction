@@ -2,7 +2,7 @@
 
 Contributed by:
 - Vaidehi Patel (Rutgers University New Brunswick)
-- Dahyeon Park (City College of  New York - CUNY)
-- Farha Ferdous (Queens College - CUNY)
-- Chelsea Prudencio (Baruch College - CUNY)
+- Dahyeon Park (CUNY City College of New York)
+- Farha Ferdous (CUNY Queens College)
+- Chelsea Prudencio (CUNY Baruch College)
 - Aliya Laliwala 
