@@ -5,4 +5,4 @@ Contributed by:
 - Dahyeon Park (CUNY City College of New York)
 - Farha Ferdous (CUNY Queens College)
 - Chelsea Prudencio (CUNY Baruch College)
-- Aliya Laliwala 
+- Aliya Laliwala (New Jersey Institute of Technology)
